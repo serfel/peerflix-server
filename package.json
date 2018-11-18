@@ -4,7 +4,7 @@
   "author": "Sergey Felyugin<silvetrs56@yahoo.com>",
   "description": "Streaming torrent client for node.js with web ui.",
   "bin": {
-    "peerflix-server": "./server/bin.js"
+    "peerflix-server-rus": "./server/bin.js"
   },
   "scripts": {
     "start": "node ./server/bin.js",
